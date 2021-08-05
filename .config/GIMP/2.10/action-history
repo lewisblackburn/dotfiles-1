@@ -1,0 +1,16 @@
+# GIMP action-history
+
+(history-item "edit-clear" 1)
+(history-item "layers-new" 2)
+(history-item "image-new" 0)
+(history-item "layers-edit" 0)
+(history-item "dialogs-indexed-palette" 0)
+(history-item "dialogs-palettes" 0)
+(history-item "palettes-edit" 0)
+(history-item "layers-edit-attributes" 0)
+(history-item "tools-gradient" 0)
+(history-item "dialogs-preferences" 0)
+(history-item "select-none" 0)
+(history-item "file-quit" 1)
+
+# end of action-history

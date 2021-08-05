@@ -1,0 +1,14 @@
+[2021-06-13 18:49:59.237] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-06-13 18:50:10.544] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2021-06-13 18:50:11.416] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/elarajade/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.4.1
+[2021-06-13 18:50:12.407] [sharedprocess] [info] Extracted extension to /home/elarajade/.vscode/extensions/.db49b8ab-f127-4ac8-aa92-e88a6b208d0c: ms-vscode.cpptools
+[2021-06-13 18:50:12.522] [sharedprocess] [info] Renamed to /home/elarajade/.vscode/extensions/ms-vscode.cpptools-1.4.1
+[2021-06-13 18:50:12.539] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2021-06-13 18:50:12.608] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2021-06-13 18:50:33.264] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-06-13 18:50:34.755] [sharedprocess] [info] Installing extension: slevesque.vscode-hexdump
+[2021-06-13 18:50:35.195] [sharedprocess] [info] Downloaded extension: slevesque.vscode-hexdump /home/elarajade/.config/Code/CachedExtensionVSIXs/slevesque.vscode-hexdump-1.8.1
+[2021-06-13 18:50:36.352] [sharedprocess] [info] Extracted extension to /home/elarajade/.vscode/extensions/.48b1f30b-2843-493a-8090-2fd8c07b37c5: slevesque.vscode-hexdump
+[2021-06-13 18:50:36.416] [sharedprocess] [info] Renamed to /home/elarajade/.vscode/extensions/slevesque.vscode-hexdump-1.8.1
+[2021-06-13 18:50:36.419] [sharedprocess] [info] Installation completed. slevesque.vscode-hexdump
+[2021-06-13 18:50:36.462] [sharedprocess] [info] Extensions installed successfully: slevesque.vscode-hexdump
