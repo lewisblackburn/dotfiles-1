@@ -1,7 +1,0 @@
-[2021-06-12 12:06:32.275] [sharedprocess] [info] Starting to clean up unused language packs.
-[2021-06-12 12:06:43.537] [sharedprocess] [info] Installing extension: wilsonsio.color-vision
-[2021-06-12 12:06:43.883] [sharedprocess] [info] Downloaded extension: wilsonsio.color-vision /home/elarajade/.config/Code/CachedExtensionVSIXs/wilsonsio.color-vision-0.1.0
-[2021-06-12 12:06:43.914] [sharedprocess] [info] Extracted extension to /home/elarajade/.vscode/extensions/.c6273354-9417-4ffc-940b-49e1afb54782: wilsonsio.color-vision
-[2021-06-12 12:06:43.970] [sharedprocess] [info] Renamed to /home/elarajade/.vscode/extensions/wilsonsio.color-vision-0.1.0
-[2021-06-12 12:06:43.974] [sharedprocess] [info] Installation completed. wilsonsio.color-vision
-[2021-06-12 12:06:44.028] [sharedprocess] [info] Extensions installed successfully: wilsonsio.color-vision
