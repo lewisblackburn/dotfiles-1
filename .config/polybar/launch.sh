@@ -7,6 +7,9 @@ killall -q polybar
 
 # Launch bar1
 echo "---" | tee -a /tmp/polybar1.log /tmp/polybar2.log
-polybar example --config='~/.config/polybar/config'
+# polybar bottom -r --config='~/.config/polybar/config' &
+
+polybar top -r --config='~/.config/polybar/config' &
+# polybar bottom -r --config='~/.config/polybar/config' &
 
 echo "Bars launched..."
