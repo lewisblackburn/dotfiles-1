@@ -28,7 +28,6 @@ call plug#begin('~/.custom/nvim/plugins')
     Plug 'AndrewRadev/id3.vim'
     Plug 'yamatsum/nvim-cursorline'
     Plug 'glepnir/dashboard-nvim'
-    Plug 'nvim-lua/plenary.nvim'
     Plug 'nvim-telescope/telescope.nvim'
 
     "Local Plugins
